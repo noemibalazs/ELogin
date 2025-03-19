@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Login</string>
+
+    <string name="label_placeholder_email">Email address</string>
+    <string name="label_placeholder_password">Password</string>
+
+    <string name="label_icon_content_description">ELogin icon</string>
+    <string name="label_app_bar_tag">App bar tag</string>
+    <string name="label_login">LogIn</string>
+</resources>
