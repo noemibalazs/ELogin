@@ -6,13 +6,6 @@ plugins {
     alias(libs.plugins.ksp)
 }
 
-//configurations {
-//    create("cleanedAnnotations")
-//    implementation {
-//        exclude(group = "org.jetbrains", module = "annotations")
-//    }
-//}
-
 android {
     namespace = "com.noemi.elogin"
     compileSdk = 34
